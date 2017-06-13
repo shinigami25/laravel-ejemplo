@@ -1,4 +1,4 @@
 <?php
-//PHP INFO Ejemplo
+//PHP 
   phpinfo();
 ?>
