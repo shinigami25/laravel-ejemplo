@@ -1,4 +1,3 @@
 <?php
-//PHP 
-  phpinfo();
+echo "Ejemplo laravel";
 ?>
